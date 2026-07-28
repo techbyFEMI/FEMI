@@ -47,7 +47,7 @@
 
 ### shipped
 
-- **[CMPDx](https://cmpdx.live)** — Squad-based accountability system. Daily discipline is visible. Inconsistency has consequences. *FastAPI + Supabase + React PWA*
+- **[CMPDx](https://cmpdx.pxxl.run)** — Squad-based accountability system. AI goal architect reads user data and surface pattern early. *FastAPI + Supabase + Langgraph*
 
 - **[GARD](https://gardfrontend.vercel.app)** — AI-powered freelance contract risk analyzer. Deterministic scoring + LLM-generated replacement language for risky clauses.
 
