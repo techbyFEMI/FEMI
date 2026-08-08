@@ -2,7 +2,7 @@
 
 # I'm Femi 👋
 
-Python Backend Developer. 
+Python Backend Developer.
 
 </div>
 
