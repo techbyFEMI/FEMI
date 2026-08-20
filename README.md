@@ -8,7 +8,6 @@ Python Backend Developer.
 ---
 
 ### 🧠 About Me
-
 - 🔧 I build **AI-powered backend systems** and **APIs** that are production-ready
 - 🤖 AI/LLM layer: **LangGraph** for agents
 - 🗄️ Data layer: **PostgreSQL + Supabase** — relational, realtime, and scalable
