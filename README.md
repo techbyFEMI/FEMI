@@ -6,7 +6,6 @@ Python Backend Developer.
 </div> 
 
 ---
-
 ### 🧠 About Me
 - 🔧 I build **AI-powered backend systems** and **APIs** that are production-ready
 - 🤖 AI/LLM layer: **LangGraph** for agents
