@@ -13,7 +13,6 @@ Python Backend Developer.
 - 🗄️ Data layer: **PostgreSQL + Supabase** — relational, realtime, and scalable
 - 📐 I craft clean architecture, explicit schemas, and I beleive proof-of-work over credentials
 - 🌍 Open to remote backend/AI engineering roles and freelance contracts
-
 ---
 
 ### 🛠️ Tech Stack
